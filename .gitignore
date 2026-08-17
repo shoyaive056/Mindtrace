@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+venv/
+*.db
+.env
+mindtrace-emotion-model/
+training_output/
+.ipynb_checkpoints/
